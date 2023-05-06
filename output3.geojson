@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.2090, 28.6139]
+        },
+        "properties": {
+          "name": "New Delhi"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.8567, 18.5204]
+        },
+        "properties": {
+          "name": "Mumbai"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.5946, 12.9716]
+        },
+        "properties": {
+          "name": "Bengaluru"
+        }
+      }
+    ]
+  }
